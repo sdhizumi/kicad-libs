@@ -29,5 +29,5 @@ KiCad 7を使用して制作しています。
 |MIWI10 Series Single|DC-DC Converter|Minmax|[Manufacturer's website](https://www.minmaxpower.com/en/product/MIWI10)|:heavy_check_mark:|:heavy_check_mark:|
 |MIWI10 Series Dual|DC-DC Converter|Minmax|[Manufacturer's website](https://www.minmaxpower.com/en/product/MIWI10)|:heavy_check_mark:|:heavy_check_mark:|
 
-Note: These DC-DC converter are selling on Akizuki Denshi Tsusho in Japan.
-備考: これらのDC-DCコンバーターは秋月電子通商で販売されています。
+Note: These DC-DC converter are selling on Akizuki Denshi Tsusho in Japan.  
+備考: これらのDC-DCコンバーターは秋月電子通商で販売されています。  
