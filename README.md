@@ -11,7 +11,7 @@ KiCad 7を使用して制作しています。
 
 ## Libraries
 ### Minmax DC-DC Converter
-|Parts name|Parts type|Manufacturer|Infomation|Symbol|Footprint|
+|Parts name|Parts type|Manufacturer|Information|Symbol|Footprint|
 |-|-|-|-|-|-|
 |M78A (M78AR) Series|DC-DC Converter|Minmax|[Manufacturer's website](https://www.minmaxpower.com/ja/product/M78AR-0.5)|:heavy_check_mark:|:heavy_check_mark:|
 |MAPU01H Series Single|DC-DC Converter|Minmax|[Manufacturer's website](https://www.minmaxpower.com/en/product/MAPU01H)|:heavy_check_mark:|:heavy_check_mark:|
